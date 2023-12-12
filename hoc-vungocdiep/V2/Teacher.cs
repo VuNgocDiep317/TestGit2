@@ -9,5 +9,9 @@ namespace hoc_vungocdiep.V2
     internal class Teacher
     {
         int a = 10;
+<<<<<<< HEAD
+=======
+        int b = 15;
+>>>>>>> V5
     }
 }
