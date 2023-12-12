@@ -8,5 +8,7 @@ namespace hoc_vungocdiep.V2
 {
     internal class Teacher
     {
+        int a = 10;
+        int a = 15;
     }
 }
